@@ -1,0 +1,22 @@
+{
+  "name": "proyecto-automation-biosafeapp",
+  "version": "1.0.0",
+  "description": "Proyecto para para la automatización de escenarios de pruebas de la app Biosafeapp",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dwightcaro/proyecto-automation-biosafeapp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dwightcaro/proyecto-automation-biosafeapp/issues"
+  },
+  "homepage": "https://github.com/dwightcaro/proyecto-automation-biosafeapp#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.53.0",
+    "@types/node": "^24.0.3"
+  }
+}
